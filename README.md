@@ -28,5 +28,5 @@
 
 - **April 2015** - Joined [Venture Garden Group](http://venturegardengroup.com/)
 
-- **January 2013**  - Joined Access Solution LTD
+- **January 2013**  - Joined Access Solutions LTD
 
