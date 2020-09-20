@@ -12,21 +12,21 @@
 
 ---
 
-**June 2020** - Gave a [talk](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132) titled Understanding DevOps
+- **June 2020** - Gave a [talk](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132) titled Understanding DevOps
 
-**April 2020** - Created [HubofML](https://twitter.com/hubofml)
+- **April 2020** - Created [HubofML](https://twitter.com/hubofml)
 
-**Oct 2019** - Gave a [talk](https://speakerdeck.com/abiodunjames/build-a-serverless-recommendation-engine-in-72-hours) at Serverless Architecture Conference, Berlin
+- **Oct 2019** - Gave a [talk](https://speakerdeck.com/abiodunjames/build-a-serverless-recommendation-engine-in-72-hours) at Serverless Architecture Conference, Berlin
 
-**Sept 2019** - Gave a talk at AWS Community Day, Hamburg
+- **Sept 2019** - Gave a talk at AWS Community Day, Hamburg
 
-**July 2018** - Joined [Architrave Gmbh](https://architrave.de)
+- **July 2018** - Joined [Architrave Gmbh](https://architrave.de)
 
-**March 2018** - Lead Developer at [Alphahill](%5Bhttps://alphahill.com/%5D(https://alphahill.com/))
+- **March 2018** - Lead Developer at [Alphahill](%5Bhttps://alphahill.com/%5D(https://alphahill.com/))
 
-**February 2017** -  Led a team at Multistream Technologies
+- **February 2017** -  Led a team at Multistream Technologies
 
-**April 2015** - Joined [Venture Garden Group](http://venturegardengroup.com/)
+- **April 2015** - Joined [Venture Garden Group](http://venturegardengroup.com/)
 
-**January 2013**  - Joined Access Solution LTD
+- **January 2013**  - Joined Access Solution LTD
 
