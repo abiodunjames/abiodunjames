@@ -14,6 +14,8 @@
 - **Dec 2020** - Joined Tier Mobility
 - **Oct 2020** - Became [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 
+- **July 2020** - Co-Founded [SanitizerWristbands](https://medium.com/swlh/what-we-learned-from-building-a-serverless-e-commerce-website-on-aws-to-combat-covid-19-2b66155f9b08)
+
 - **June 2020** - Gave a [talk](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132) titled "Understanding DevOps"
 
 - **April 2020** - Created [HubofML](https://twitter.com/hubofml)
