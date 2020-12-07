@@ -11,7 +11,7 @@
 ### News
 
 ---
-
+- **Dec 2020** - Joined Tier Mobility
 - **Oct 2020** - Became [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 
 - **June 2020** - Gave a [talk](https://www.slideshare.net/SamuelJames16/understanding-devops-236615132) titled "Understanding DevOps"
