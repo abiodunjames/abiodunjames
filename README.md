@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm [Samuel James](https://www.linkedin.com/in/abiodunjames/). I love writing code and helping developers grasp new concepts. I have been working professionally in the tech industry since 2013. I’ve held multiple software engineering positions from a junior software engineer position to a team lead position at startups.
+- 💻 I'm [Samuel James](https://www.linkedin.com/in/abiodunjames/). I love writing code and helping developers grasp new concepts. I have been working professionally in the tech industry since 2013. I’ve held multiple software engineering positions from a junior software engineer position to team lead positions at startups.
 
 - ✍️ I write a lot about code and technology in general. You’ll find my posts on major developers community platforms and blog pages of tech companies like [Stackify](https://stackify.com/aws-lambda-with-node-js-a-complete-getting-started-guide/), [Scalyr](https://www.scalyr.com), [Blue Medora](https://bluemedora.com/), [Thundra.io](https://thundra.io), [Iamondemand](https://iamondemand.com/), [Testim](http://testim.io/), etc.
 
