@@ -9,7 +9,7 @@
 ### News
 
 ---
-- **Dec 2020** - Joined Tier Mobility
+- **Dec 2020** - Joined [Tier Mobility](https://tier.app)
 - **Oct 2020** - Became [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
 
 - **July 2020** - Co-Founded [SanitizerWristbands](https://medium.com/swlh/what-we-learned-from-building-a-serverless-e-commerce-website-on-aws-to-combat-covid-19-2b66155f9b08)
